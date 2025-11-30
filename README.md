@@ -82,6 +82,6 @@ The live detection system follows this pipeline using OpenCV:
 Ensure you have Python installed. Clone the repository and install dependencies:
 
 ```bash
-git clone [https://github.com/yourusername/drowsiness-detection.git](https://github.com/yourusername/drowsiness-detection.git)
+git clone[https://github.com/MridulPathania01/Driver-Drowsiness-Detections.git)
 cd drowsiness-detection
 pip install tensorflow opencv-python matplotlib numpy
