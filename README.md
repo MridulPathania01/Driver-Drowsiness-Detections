@@ -9,6 +9,12 @@
 
 ---
 
+### 👨‍💻 Project By
+**Mridul Pathania** | **Midhun KP** | **Ashutosh Chauhan**
+*Department of Computer Science & Engineering, Lovely Professional University*
+
+---
+
 ## 📌 Overview
 Driver fatigue is a leading cause of road accidents globally. This project aims to mitigate this risk by developing a robust **Drowsiness Detection System**. By leveraging **Deep Learning** and **OpenCV**, the system monitors the driver's facial features (specifically eye closure and yawning) through a webcam to classify their state as either **Alert** or **Drowsy**.
 
